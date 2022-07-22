@@ -1,1 +1,1 @@
-console.log("arquivo 2")
+gtconsole.log("arquivo 2")
